@@ -1,7 +1,10 @@
 # group-project-2020
 
-I am adding new content to the group project
-I am adding new content to the group project
+## Testing
 
-installation instructions..
+Install yarn
+https://classic.yarnpkg.com/en/docs/install#mac-stable
 
+install jest
+
+```yarn add --dev jest```
