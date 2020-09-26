@@ -1,10 +1,19 @@
 # group-project-2020
 
-## Testing
+## testing
 
-Install yarn
+#### Install yarn
 https://classic.yarnpkg.com/en/docs/install#mac-stable
 
-install jest
+#### install jest
 
+navigate to tdd folder and type in your command prompt
 ```yarn add --dev jest```
+
+#### Run the tests
+yarn test
+
+# Other
+jest.config.js - indicates what files to include in test
+
+
